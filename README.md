@@ -8,17 +8,6 @@
 
 我会尝试尽可能经常更新此存储库，并将其翻译成不同的语言。
 
-## 3)  运动（机车）
+## 3)  连接
 
-参数	                         |          改变的例子                                                   |          资料描述
-``walkspeed``		             |          ``inst.components.locomotor.walkspeed = 6``                |          行走速度
-``runspeed``	               |          ``inst.components.locomotor.runspeed = 6``                 |          运行速度
-``slow_mult``	               |          ``inst.components.locomotor.slow_mult = 0.7``              |          减速（例如，在水中）
-
-## 4) 抵抗（resistances）
-
-参数	                         |          改变的例子                                                   |          资料描述
-``fire_damage_scale``		     |          ``inst.components.health.fire_damage_scale = 0.5``         |          火灾损害
-``freeze_damage_scale``	     |          ``inst.components.health.freeze_damage_scale = 0.2``       |          霜冻伤害
-``poison_damage_scale``	     |          ``inst.components.health.poison_damage_scale = 0``         |          毒药伤害
-``electric_damage_scale``	   |          ``inst.components.health.electric_damage_scale = 0.3``     |          闪电伤害
+如果您还有任何问题，请在"问题"选项卡中询问。
