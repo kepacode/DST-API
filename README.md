@@ -1,16 +1,8 @@
 ## 用于创建mods的API
 
-## 1)  基本特征（健康，饥饿，理智）
+## 1)  关于存储库
 
-参数	                         |          改变的例子                                                   |          资料描述
-``health``		               |          ``inst.components.health:SetMaxHealth(200)``               |          麦克斯 健康
-``hunger``	                 |          ``inst.components.hunger:SetMax(150)``                     |          麦克斯 饥饿
-``sanity``	                 |          ``inst.components.sanity:SetMax(250)``                     |          最大的理智
-``hungerrate``	             |          ``inst.components.hunger.hungerrate = 1.5``                |          饥饿损失率
-``sanity_dapperness``	       |          ``inst.components.sanity.dapperness = 1``                  |          被动恢复理智
-``sanity_night_drain``	     |          ``inst.components.sanity.night_drain_mult = 0.5``          |          夜间失去理智
-``sanity_ghost_drain``	     |          ``inst.components.sanity.ghost_drain_mult = 0.2``          |          以幽灵的形式丧失理智
-
+我已经整理了一个预制件的集合，您可能需要为游戏创建修改，不要一起饿死。
 
 ## 2)  战斗参数
 
